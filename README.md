@@ -17,16 +17,13 @@ An IoT-enabled Smart Energy Meter developed using **ESP32** and **PZEM-004T** fo
 - ESP32 Development Board
 - PZEM-004T Energy Meter Module
 - AC Load
-- Wi-Fi Router
 - Power Supply
 
 ## Software Used
 
 - Arduino IDE
 - Embedded C/C++
-- HTML
-- CSS
-- JavaScript
+- Blynk Iot
 
 ## Working
 
