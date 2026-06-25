@@ -1,5 +1,4 @@
-# Smart-Energy-Meter-IoT-Based-System-
-IoT-based Smart Energy Meter using ESP32 and PZEM-004T with real-time power monitoring, Wi-Fi connectivity, and a live web dashboard.
+
 # Smart Energy Meter (IoT-Based System)
 
 An IoT-enabled Smart Energy Meter developed using **ESP32** and **PZEM-004T** for real-time monitoring of electrical parameters. The system measures voltage, current, power, energy, frequency, and power factor, then displays the data on a Wi-Fi-enabled web dashboard with automatic refresh and threshold-based alerts.
